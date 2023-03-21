@@ -1,0 +1,4 @@
+kuapi:
+ client:
+   access-key: kushui
+   secret-key: abcdefgh
